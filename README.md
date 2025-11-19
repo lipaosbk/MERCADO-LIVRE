@@ -68,7 +68,7 @@ cd mercado-livre-clone
 
 ## 📲 Contatos
 
-📩 **Gmail:** [Gmail](mailto:felipe.sobenko@gmail.com)
+📩 **Gmail:** [Gmail](mailto:sobenko84@gmail.com)
 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/felipe-sobenko-58a745240/)
 📸 **Instagram:** [Instagram](https://www.instagram.com/fellipesbk/)
 
